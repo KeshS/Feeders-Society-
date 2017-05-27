@@ -1,2 +1,2 @@
 # Feeders-Society-
-Twitch grouo chat
+Twitch group chat
